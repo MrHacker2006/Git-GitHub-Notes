@@ -22,5 +22,5 @@ Stay tuned! 👨‍💻
 
 ---
 
-> 📌 If you found this helpful, consider giving the repo a ⭐ and sharing it with others!
+📌 If you found this helpful, consider giving the repo a ⭐ and sharing it with others!
 
